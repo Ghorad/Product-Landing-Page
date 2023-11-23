@@ -41,7 +41,7 @@ body {
 }
 
 main {
-  padding-top: 70px; /* Adjust padding to account for fixed header */
+  padding-top: 70px;
 }
 
 #gpu,
@@ -84,7 +84,7 @@ main {
   background-color: #45a049;
 }
 
-/* Media Query for responsiveness */
+
 @media screen and (max-width: 768px) {
   #nav-bar {
     flex-direction: column;
